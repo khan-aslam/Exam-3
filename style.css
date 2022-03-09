@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Montserrat:wght@700&family=Open+Sans&family=Playfair+Display:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{;
+
+
+} 
+
+
+
+ul{
+    display:flex; 
+    margin-top: -50px;
+
+
+   
+    
+
+}
+li{
+    list-style-type: none;
+    padding-left: 20px;
+
+}
+li a{text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.logo{;
+    max-width: 60px;
+   
+
+}
+.zzzz{width: 1440px;
+  height: 500px;
+  background-color: #87509c;
+ 
+
+}
+   
+.h4{
+  width: 950px;height: 100px;
+  margin: 200px 100px;
+  display: block;
+  position: center;
+  
+}        
+        
+    
